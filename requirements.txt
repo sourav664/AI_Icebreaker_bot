@@ -1,0 +1,10 @@
+llama-index-llms-openai
+llama-index-core
+llama-index-readers-web
+llama-index-embeddings-openai
+pydantic
+requests
+
+gradio
+
+huggingface_hub
